@@ -1,0 +1,24 @@
+*{
+  margin: 0;
+}
+body{
+  background-color: #fff;
+}
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color: #fff;
+}
+.App-header{
+  color: black;
+}
+.title h1{
+  margin-bottom: 10px;
+}
+.answers{
+  margin: 0 auto;
+  width: 50%;
+  text-align: left;
+}
